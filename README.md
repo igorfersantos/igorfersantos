@@ -3,7 +3,7 @@
 
 - ⚒️ &nbsp; Back-end software engineer always seeking knowledge and interesting stuff.
 - 🎓 &nbsp; Software Engineer Technician by <a href="https://www.unicamp.br/unicamp/">UNICAMP/Cotil</a>.
-- 💼 &nbsp; Currently **open to work** as a Software Engineer/Developer.
+- 💼 &nbsp; Currently **open to work** as Software Engineer/Developer.
 - 🌱 &nbsp; Mostly learning **Elixir**, **Go**, **Microservices**, **Event driven** and **Game Development** related technologies lately.
 
 <h3> :rocket: &nbsp;Skills </h3>
