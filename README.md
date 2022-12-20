@@ -68,8 +68,8 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Igor Fernandes](https://img.shields.io/badge/-igorfsant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorfsant/)](https://www.linkedin.com/in/igorfsant/)
-[![Gmail Badge](https://img.shields.io/badge/igorfercontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorfercontato@gmail.com)](mailto:igorfercontato@gmail.com)
-[![GitHub Igor Fernandes]( https://img.shields.io/github/followers/igorfersantos?label=follow&style=social)](https://github.com/igorfersantos)
+[![GitHub Igor Fernandes](https://img.shields.io/github/followers/igorfersantos?label=follow&style=social)](https://github.com/igorfersantos)
+[![LinkedIn: Igor Fernandes](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorfsant/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:igorfercontato@gmail.com)](mailto:igorfercontato@gmail.com)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://igor-fernandes.itch.io)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/igorfsant)
