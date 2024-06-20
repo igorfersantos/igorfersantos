@@ -10,7 +10,7 @@
 
 **Current Projects**
 
-<a href="https://paprikagamestudio.itch.io/dipety" target="_blank"><img width="315" height="250" src="https://img.itch.zone/aW1nLzEzMzU5NTY3LmdpZg==/315x250%23cm/7m2Ejk.gif"></a>
+<a href="https://paprikagamestudio.itch.io/dipety" target="_blank"><img width="315" height="250" src="https://img.itch.zone/aW1nLzEzMzU5NTY3LmdpZg==/original/IQH7hX.gif"></a>
 
 **Stuff I worked with**
   
