@@ -8,6 +8,10 @@
 
 <h3> :rocket: &nbsp;Skills </h3>
 
+**Current Projects**
+
+<a href="https://paprikagamestudio.itch.io/dipety"><img data-lazy_src="https://img.itch.zone/aW1nLzEzMzU5NTY3LmdpZg==/315x250%23cm/7m2Ejk.gif" width="315" height="250" class="lazy_loaded" src="https://img.itch.zone/aW1nLzEzMzU5NTY3LmdpZg==/315x250%23cm/7m2Ejk.gif"></a>
+
 **Stuff I worked with**
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
